@@ -10,7 +10,7 @@ Saturn is an application that can be used to remember upcoming events and releas
 ## Technologies Used
 Saturn is built with Java and vanilla Android in Android Studio. The web scrapers we used to populate our database were built with Python. The development database used was hosted on ElephantSQL, and interfaced with JDBC. 
 
-## Business Oppurtunities
+## Potential Business Oppurtunities
 Saturn would be free to use with profit coming from partnerships. Companies could pay to show their events to more users and Saturn could implement deep links into online stores and streaming services.
 
 ## The Development Team
